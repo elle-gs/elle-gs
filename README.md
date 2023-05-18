@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=niellegs&show_icons=true&count_private=true&hide_border=true&title_color=A84448&icon_color=A84448&text_color=A84448&bg_color=0d1117" alt="Danielle Gomes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niellegs&layout=compact&hide_border=true&title_color=A84448&text_color=A84448&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=niellegs&show_icons=true&count_private=true&hide_border=true&title_color=A84448&icon_color=A84448&text_color=A84448&bg_color=transparent" alt="Danielle Gomes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niellegs&layout=compact&hide_border=true&title_color=A84448&text_color=A84448&bg_color=transparent" />
 </div>
 
 
